@@ -1,0 +1,13 @@
+{
+    "name": "insolita/socketread",
+    "authors": [
+        {
+            "name": "insolita",
+            "email": "webmaster100500@ya.ru"
+        }
+    ],
+    "require": {
+        "amphp/amp": "^2.0",
+        "amphp/socket": "^0.10.5"
+    }
+}
